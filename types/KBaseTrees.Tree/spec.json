@@ -5,5 +5,8 @@
     ],
     "import_method_ids":[
     ],
+    "export_functions":{
+        "Newick": "SpeciesTreeBuilder/export_tree_newick"
+    },
     "landing_page_url_prefix":"tree"
 }
